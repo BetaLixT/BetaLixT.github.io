@@ -1,4 +1,5 @@
 {
   "main.js": "render-page.js",
-  "render-page.js.map": "render-page.js.map"
+  "render-page.js.map": "render-page.js.map",
+  "static/kiara-gangimari.png": "static/kiara-gangimari-aee1290b7e339aad6ccf876488df11d7.png"
 }
