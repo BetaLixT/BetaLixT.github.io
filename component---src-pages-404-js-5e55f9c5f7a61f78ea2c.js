@@ -1,2 +1,0 @@
-(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[883],{9616:function(e,t,a){"use strict";a.r(t);var l=a(7294),n=a(7198),u=a(3751),r=a(6285);t.default=function(){return l.createElement(n.Z,null,l.createElement(u.Z,{title:"404: Not found"}),l.createElement(r.Z,{siteTitle:"Kiara Million"}),l.createElement("h1",null,"404: Not Found"),l.createElement("p",null,"You just hit a route that doesn't exist... the sadness."))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-5e55f9c5f7a61f78ea2c.js.map
